@@ -1,0 +1,36 @@
+# Анализ гендерных, антропометрических и географических различий среди действующих спортсменов в олимпийских видах спорта (плавание, биатлон, фигурное катание).
+# Gender, anthropometric, and geographic analysis of active athletes in Olympic sports (swimming, biathlon, figure skating).
+
+SELECT
+  ?sportLabel      # Название вида спорта / Sport name
+  ?genderLabel     # Пол спортсмена / Athlete's gender
+  ?countryLabel    # Страна гражданства / Country of citizenship
+  (COUNT(DISTINCT ?athlete) AS ?athleteCount)  # Количество спортсменов / Number of athletes
+  (AVG(?height) AS ?avgHeight)  # Средний рост / Average height
+  (AVG(?weight) AS ?avgWeight)  # Средний вес / Average weight
+WHERE {
+  # Фильтр: только люди (Q5)
+  ?athlete wdt:P31 wd:Q5 .  # Тип объекта: человек / Object type: human
+
+  # Фильтр: только живые спортсмены (нет даты смерти)
+  FILTER NOT EXISTS { ?athlete wdt:P570 [] } .  # Исключаем умерших / Exclude deceased
+
+  # Фильтр: только выбранные виды спорта
+  ?athlete wdt:P641 ?sport .  # Вид спорта спортсмена / Athlete's sport
+  VALUES ?sport { wd:Q31920 wd:Q166788 wd:Q38108 } .  # Плавание, биатлон, фигурное катание / Swimming, biathlon, figure skating
+
+  # Фильтр: дата рождения не ранее 1985 года
+  ?athlete wdt:P569 ?birthDate .  # Дата рождения / Date of birth
+  FILTER(YEAR(?birthDate) >= 1985) .  # Родились после 1985 года / Born after 1985
+
+  # Извлекаем пол, рост, вес и страну гражданства
+  ?athlete wdt:P21 ?gender .  # Пол спортсмена / Athlete's gender
+  ?athlete wdt:P2048 ?height .  # Рост спортсмена / Athlete's height
+  ?athlete wdt:P2067 ?weight .  # Вес спортсмена / Athlete's weight
+  ?athlete wdt:P27 ?country .  # Страна гражданства / Country of citizenship
+
+  # Метки только на русском языке
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru" . }  # Локализация: только русский / Localization: Russian only
+}
+GROUP BY ?sport ?gender ?country ?sportLabel ?genderLabel ?countryLabel  # Группировка по виду спорта, полу и стране
+ORDER BY ?sportLabel ?genderLabel ?countryLabel  # Сортировка по виду спорта, полу и стране
