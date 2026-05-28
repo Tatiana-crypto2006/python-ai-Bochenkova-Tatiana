@@ -1,0 +1,35 @@
+# Основные данные действующих спортсменов (родились после 1985)
+# Виды спорта: плавание (wd:Q31920), биатлон (wd:Q166788), фигурное катание (wd:Q38108)
+
+SELECT DISTINCT
+  ?athlete  # URI спортсмена
+  ?athleteLabel  # Имя спортсмена
+  ?sportLabel  # Вид спорта
+  ?genderLabel  # Пол
+  ?countryLabel  # Страна гражданства
+  ?birthDate  # Дата рождения
+  ?deathDate  # Дата смерти (OPTIONAL)
+  ?height  # Рост (OPTIONAL)
+  ?weight  # Вес (OPTIONAL)
+WHERE {
+  ?athlete wdt:P31 wd:Q5 ;  # Тип: человек
+            wdt:P641 ?sport ;  # Вид спорта
+            wdt:P21 ?gender ;  # Пол
+            wdt:P27 ?country ;  # Страна гражданства
+            wdt:P569 ?birthDate .  # Дата рождения
+
+  # Фильтр по видам спорта
+  VALUES ?sport { wd:Q31920 wd:Q166788 wd:Q38108 }
+
+  # Фильтр по году рождения
+  FILTER(YEAR(?birthDate) >= 1985)
+
+  # Необязательные свойства
+  OPTIONAL { ?athlete wdt:P570 ?deathDate }  # Дата смерти
+  OPTIONAL { ?athlete wdt:P2048 ?height }  # Рост
+  OPTIONAL { ?athlete wdt:P2067 ?weight }  # Вес
+
+  # Метки на русском, английском или мультиязычные
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul" . }
+}
+ORDER BY ?sportLabel ?genderLabel ?countryLabel ?athleteLabel
