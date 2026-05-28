@@ -1,0 +1,41 @@
+# Награды спортсменов (родились после 1985)
+# Виды спорта: плавание (wd:Q31920), биатлон (wd:Q166788), фигурное катание (wd:Q38108)
+
+SELECT DISTINCT
+  ?athlete  # URI спортсмена
+  ?athleteLabel  # Имя спортсмена
+  ?sportLabel  # Вид спорта
+  ?award  # URI награды
+  ?awardLabel  # Название награды
+  ?medalTypeLabel  # Тип награды (OPTIONAL)
+  ?year  # Год получения награды
+  ?countryLabel  # Страна (OPTIONAL)
+WHERE {
+  ?athlete wdt:P31 wd:Q5 ;  # Тип: человек
+            wdt:P641 ?sport ;  # Вид спорта
+            wdt:P569 ?birthDate .  # Дата рождения
+
+  # Фильтр по видам спорта
+  VALUES ?sport { wd:Q31920 wd:Q166788 wd:Q38108 }
+
+  # Фильтр по году рождения
+  FILTER(YEAR(?birthDate) >= 1985)
+
+  # Награды (используем p:P166 / ps:P166)
+  ?athlete p:P166 ?awardStatement .
+  ?awardStatement ps:P166 ?award .
+
+  # Год получения награды
+  OPTIONAL { ?awardStatement pq:P585 ?awardDate .
+             BIND(YEAR(?awardDate) AS ?year) }
+
+  # Тип награды (OPTIONAL)
+  OPTIONAL { ?awardStatement pq:P1510 ?medalType }
+
+  # Страна (OPTIONAL)
+  OPTIONAL { ?athlete wdt:P27 ?country }
+
+  # Метки на русском, английском или мультиязычные
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul" . }
+}
+ORDER BY ?sportLabel ?year ?athleteLabel
