@@ -1,0 +1,805 @@
+athlete,athleteLabel,sportLabel,award,awardLabel,medalTypeLabel,year,countryLabel
+http://www.wikidata.org/entity/Q15979668,Anja Wicker,биатлон,http://www.wikidata.org/entity/Q315026,Серебряный лавровый лист,,,Германия
+http://www.wikidata.org/entity/Q15980179,Yuri Utkin,биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q953322,Алексей Анатольевич Волков,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,СССР
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,СССР
+http://www.wikidata.org/entity/Q2560358,Анна Александровна Бурмистрова,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,СССР
+http://www.wikidata.org/entity/Q520291,Антон Владимирович Шипулин,биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q520291,Антон Владимирович Шипулин,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q48440010,Антон Смольский,биатлон,http://www.wikidata.org/entity/Q107802335,Биатлон на зимних Олимпийских играх 2022 — индивидуальная гонка (мужчины),,,Беларусь
+http://www.wikidata.org/entity/Q16166176,"Буй, Ирина Васильевна",биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q16166176,"Буй, Ирина Васильевна",биатлон,http://www.wikidata.org/entity/Q20068270,Мастер спорта Украины международного класса,,,Украина
+http://www.wikidata.org/entity/Q15854388,"Бутаков, Виктор Васильевич",биатлон,http://www.wikidata.org/entity/Q1803234,мастер спорта СССР,,,Россия
+http://www.wikidata.org/entity/Q15854388,"Бутаков, Виктор Васильевич",биатлон,http://www.wikidata.org/entity/Q1803234,мастер спорта СССР,,,СССР
+http://www.wikidata.org/entity/Q265382,Валентина Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q6482065,Ванесса Хинц,биатлон,http://www.wikidata.org/entity/Q672787,Баварский орден «За заслуги»,,,Германия
+http://www.wikidata.org/entity/Q4103653,"Варвинец, Ирина Анатольевна",биатлон,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q4103653,"Варвинец, Ирина Анатольевна",биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q257713,Вита Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q15918908,Владислав Алексеевич Лекомцев,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q4113910,"Вовчинский, Григорий Васильевич",биатлон,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q4113910,"Вовчинский, Григорий Васильевич",биатлон,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q4113910,"Вовчинский, Григорий Васильевич",биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q717465,Дмитрий Владимирович Малышко,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q717465,Дмитрий Владимирович Малышко,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,СССР
+http://www.wikidata.org/entity/Q15408390,Дмитрий Владимирович Пидручный,биатлон,http://www.wikidata.org/entity/Q25433136,почётный гражданин Тернопольской области,,,Украина
+http://www.wikidata.org/entity/Q1237911,Доминик Виндиш,биатлон,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q519429,Доминик Ландертингер,биатлон,http://www.wikidata.org/entity/Q60658073,рыцарский крест I степени почётного знака «За заслуги перед Австрийской Республикой»,,,Австрия
+http://www.wikidata.org/entity/Q458505,Доротея Вирер,биатлон,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q766838,Евгений Александрович Гараничев,биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q351886,Евгений Романович Устюгов,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q351886,Евгений Романович Устюгов,биатлон,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q525140,Екатерина Евгеньевна Шумилова,биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561484,орден княгини Ольги I степени,,,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561484,орден княгини Ольги I степени,,,СССР
+http://www.wikidata.org/entity/Q1367402,Жан-Гийом Беатрикс,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,,Франция
+http://www.wikidata.org/entity/Q4214502,"Карачурин, Азат Динарович",биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q2832655,"Кауфман, Алёна Владимировна",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q2832655,"Кауфман, Алёна Владимировна",биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q2832655,"Кауфман, Алёна Владимировна",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q15979660,"Коновалова, Светлана Игоревна",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q15979660,"Коновалова, Светлана Игоревна",биатлон,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q15979660,"Коновалова, Светлана Игоревна",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,СССР
+http://www.wikidata.org/entity/Q15979660,"Коновалова, Светлана Игоревна",биатлон,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,СССР
+http://www.wikidata.org/entity/Q4231098,"Кононова, Александра Николаевна",биатлон,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q4231098,"Кононова, Александра Николаевна",биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q4231098,"Кононова, Александра Николаевна",биатлон,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q4270710,"Лысова, Михалина Анатольевна",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q4270710,"Лысова, Михалина Анатольевна",биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q4270710,"Лысова, Михалина Анатольевна",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q4270710,"Лысова, Михалина Анатольевна",биатлон,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q76455,Магдалена Нойнер,биатлон,http://www.wikidata.org/entity/Q1571341,Зал славы немецкого спорта,,,Германия
+http://www.wikidata.org/entity/Q76455,Магдалена Нойнер,биатлон,http://www.wikidata.org/entity/Q672787,Баварский орден «За заслуги»,,,Германия
+http://www.wikidata.org/entity/Q76455,Магдалена Нойнер,биатлон,http://www.wikidata.org/entity/Q315026,Серебряный лавровый лист,,,Германия
+http://www.wikidata.org/entity/Q254252,Мари Дорен-Абер,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,,Франция
+http://www.wikidata.org/entity/Q254252,Мари Дорен-Абер,биатлон,http://www.wikidata.org/entity/Q13422140,офицер ордена «За заслуги»,,,Франция
+http://www.wikidata.org/entity/Q240680,Мари-Лор Брюне,биатлон,http://www.wikidata.org/entity/Q13422140,офицер ордена «За заслуги»,,,Франция
+http://www.wikidata.org/entity/Q18600743,"Меркушина, Анастасия Олеговна",биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q18600743,"Меркушина, Анастасия Олеговна",биатлон,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q15972318,"Миннегулов, Рушан Рустемович",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q15972318,"Миннегулов, Рушан Рустемович",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q15972318,"Миннегулов, Рушан Рустемович",биатлон,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q60480,Мириам Гёсснер,биатлон,http://www.wikidata.org/entity/Q315026,Серебряный лавровый лист,,,Германия
+http://www.wikidata.org/entity/Q16000891,"Мурыгин, Григорий Александрович",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q16000891,"Мурыгин, Григорий Александрович",биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q17057529,Наталья Братюк,биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q432987,Ольга Геннадьевна Вилухина,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q17106580,"Пономарёв, Олег Сергеевич",биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q19577612,"Проньков, Александр Вячеславович",биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q15979662,"Ремизова, Елена Александровна",биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q15979662,"Ремизова, Елена Александровна",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q236225,Светлана Юрьевна Слепцова,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q2287432,Симон Детьё,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,,Франция
+http://www.wikidata.org/entity/Q681271,Симон Шемпп,биатлон,http://www.wikidata.org/entity/Q315026,Серебряный лавровый лист,,,Германия
+http://www.wikidata.org/entity/Q4759246,"Токарев, Андрей Александрович",биатлон,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q1450167,Франциска Пройс,биатлон,http://www.wikidata.org/entity/Q672787,Баварский орден «За заслуги»,,,Германия
+http://www.wikidata.org/entity/Q15924604,"Чохлаев, Станислав Мусаевич",биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q60835612,"Шишкин, Денис Николаевич",биатлон,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q48955134,Эдуард Ратмилевич Латыпов,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q48955134,Эдуард Ратмилевич Латыпов,биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q48955134,Эдуард Ратмилевич Латыпов,биатлон,http://www.wikidata.org/entity/Q583881,орден Дружбы народов,,,Россия
+http://www.wikidata.org/entity/Q461543,Юлия Валентиновна Джима,биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q461543,Юлия Валентиновна Джима,биатлон,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q461543,Юлия Валентиновна Джима,биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q17057547,Юлия Владимировна Будалеева,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q337420,Яков Фак,биатлон,http://www.wikidata.org/entity/Q20520760,премия Блоудека,,,Словения
+http://www.wikidata.org/entity/Q15911611,"Яровый, Максим Владимирович",биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q265382,Валентина Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,2008,Украина
+http://www.wikidata.org/entity/Q315034,Эмиль Хегле Свендсен,биатлон,http://www.wikidata.org/entity/Q11993519,Olavstatuetten,,2008,Норвегия
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q56367523,премия Кабинета Министров Украины за особые достижения молодежи в развитии Украины,,2009,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q56367523,премия Кабинета Министров Украины за особые достижения молодежи в развитии Украины,,2009,СССР
+http://www.wikidata.org/entity/Q375558,Венсан Же,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2010,Франция
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2010,Россия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2010,Беларусь
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2010,СССР
+http://www.wikidata.org/entity/Q359348,Мартен Фуркад,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2010,Франция
+http://www.wikidata.org/entity/Q120479,Тарьей Бё,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2011,Норвегия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q42307908,орден Отечества III степени,,2012,Россия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q42307908,орден Отечества III степени,,2012,Беларусь
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q42307908,орден Отечества III степени,,2012,СССР
+http://www.wikidata.org/entity/Q1334428,Йоханнес Тинес Бё,биатлон,http://www.wikidata.org/entity/Q1734266,премия Каролины,,2012,Норвегия
+http://www.wikidata.org/entity/Q76455,Магдалена Нойнер,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2012,Германия
+http://www.wikidata.org/entity/Q315034,Эмиль Хегле Свендсен,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2012,Норвегия
+http://www.wikidata.org/entity/Q265382,Валентина Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,2013,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q25433232,знак отличия Тернопольского городского совета,,2013,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,2013,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q25433232,знак отличия Тернопольского городского совета,,2013,СССР
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,2013,СССР
+http://www.wikidata.org/entity/Q359348,Мартен Фуркад,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2013,Франция
+http://www.wikidata.org/entity/Q265382,Валентина Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29561484,орден княгини Ольги I степени,,2014,Украина
+http://www.wikidata.org/entity/Q15918908,Владислав Алексеевич Лекомцев,биатлон,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,2014,Россия
+http://www.wikidata.org/entity/Q771410,Габриэла Соукалова,биатлон,http://www.wikidata.org/entity/Q26936132,Серебряная медаль председателя Сената,,2014,Чехия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2014,Россия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q1365037,Герой Беларуси,,2014,Россия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2014,Беларусь
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q1365037,Герой Беларуси,,2014,Беларусь
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2014,СССР
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q1365037,Герой Беларуси,,2014,СССР
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,2014,Украина
+http://www.wikidata.org/entity/Q276867,Елена Михайловна Билосюк,биатлон,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,2014,СССР
+http://www.wikidata.org/entity/Q359348,Мартен Фуркад,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2014,Франция
+http://www.wikidata.org/entity/Q265382,Валентина Александровна Семеренко,биатлон,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,2015,Украина
+http://www.wikidata.org/entity/Q1902948,Марте Олсбю-Ройселанн,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2015,Норвегия
+http://www.wikidata.org/entity/Q1913846,"Цветков, Максим Сергеевич",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2015,Россия
+http://www.wikidata.org/entity/Q111094702,Eliška Václavíková,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2017,Чехия
+http://www.wikidata.org/entity/Q110770163,Jonáš Mareček,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2017,Чехия
+http://www.wikidata.org/entity/Q2643283,Александр Викторович Логинов,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2017,Россия
+http://www.wikidata.org/entity/Q1902948,Марте Олсбю-Ройселанн,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2017,Норвегия
+http://www.wikidata.org/entity/Q110770163,Jonáš Mareček,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2018,Чехия
+http://www.wikidata.org/entity/Q271238,Анаис Бескон,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2018,Франция
+http://www.wikidata.org/entity/Q488759,Анаис Шевалье-Буше,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2018,Франция
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q3885142,орден «За личное мужество»,,2018,Россия
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q3885142,орден «За личное мужество»,,2018,Беларусь
+http://www.wikidata.org/entity/Q209193,Дарья Владимировна Домрачева,биатлон,http://www.wikidata.org/entity/Q3885142,орден «За личное мужество»,,2018,СССР
+http://www.wikidata.org/entity/Q18586287,Жюстин Брезаз,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2018,Франция
+http://www.wikidata.org/entity/Q1334428,Йоханнес Тинес Бё,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2018,Норвегия
+http://www.wikidata.org/entity/Q1902948,Марте Олсбю-Ройселанн,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2018,Норвегия
+http://www.wikidata.org/entity/Q359348,Мартен Фуркад,биатлон,http://www.wikidata.org/entity/Q10855195,офицер ордена Почётного легиона,,2018,Франция
+http://www.wikidata.org/entity/Q27999595,Ханна Эберг,биатлон,http://www.wikidata.org/entity/Q2297250,Svenska Dagbladet Gold Medal,,2018,Швеция
+http://www.wikidata.org/entity/Q27999595,Ханна Эберг,биатлон,http://www.wikidata.org/entity/Q663431,Jerring Award,,2018,Швеция
+http://www.wikidata.org/entity/Q110770163,Jonáš Mareček,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2019,Чехия
+http://www.wikidata.org/entity/Q18751187,Матвей Павлович Елисеев,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2019,Россия
+http://www.wikidata.org/entity/Q15736761,Михал Крчмарж,биатлон,http://www.wikidata.org/entity/Q64746327,Бронзовая медаль Масарикова университета,,2019,Чехия
+http://www.wikidata.org/entity/Q27975977,Себастьян Самуэльссон,биатлон,http://www.wikidata.org/entity/Q117086457,Q117086457,,2019,Швеция
+http://www.wikidata.org/entity/Q2977362,Стина Нильссон,биатлон,http://www.wikidata.org/entity/Q117086457,Q117086457,,2019,Швеция
+http://www.wikidata.org/entity/Q27999595,Ханна Эберг,биатлон,http://www.wikidata.org/entity/Q117086457,Q117086457,,2019,Швеция
+http://www.wikidata.org/entity/Q1913846,"Цветков, Максим Сергеевич",биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,2019,Россия
+http://www.wikidata.org/entity/Q1902948,Марте Олсбю-Ройселанн,биатлон,http://www.wikidata.org/entity/Q1061233,Чемпион чемпионов L'Équipe,,2020,Норвегия
+http://www.wikidata.org/entity/Q110770163,Jonáš Mareček,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2021,Чехия
+http://www.wikidata.org/entity/Q1334428,Йоханнес Тинес Бё,биатлон,http://www.wikidata.org/entity/Q541985,медаль Хольменколлена,,2021,Норвегия
+http://www.wikidata.org/entity/Q4980869,Лаура Дальмайер,биатлон,http://www.wikidata.org/entity/Q672787,Баварский орден «За заслуги»,,2021,Германия
+http://www.wikidata.org/entity/Q110770163,Jonáš Mareček,биатлон,http://www.wikidata.org/entity/Q63408421,Заслуженный спортсмен края Высочина,,2022,Чехия
+http://www.wikidata.org/entity/Q2643283,Александр Викторович Логинов,биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,2022,Россия
+http://www.wikidata.org/entity/Q106426908,Вероника Сергеевна Степанова,биатлон,http://www.wikidata.org/entity/Q791135,орден Дружбы,,2022,Россия
+http://www.wikidata.org/entity/Q106426908,Вероника Сергеевна Степанова,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q19207085,Жюли Симон,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2022,Франция
+http://www.wikidata.org/entity/Q18586287,Жюстин Брезаз,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2022,Франция
+http://www.wikidata.org/entity/Q55102680,"Казакевич, Ирина Владимировна",биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2022,Россия
+http://www.wikidata.org/entity/Q55102680,"Казакевич, Ирина Владимировна",биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q15841371,Кентен Фийон-Майе,биатлон,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2022,Франция
+http://www.wikidata.org/entity/Q47453257,Кристина Леонидовна Резцова,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q47453257,Кристина Леонидовна Резцова,биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2022,Россия
+http://www.wikidata.org/entity/Q1902948,Марте Олсбю-Ройселанн,биатлон,http://www.wikidata.org/entity/Q1163691,Fearnley award,,2022,Норвегия
+http://www.wikidata.org/entity/Q65212003,Саид Каримулла Халили,биатлон,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,2022,Россия
+http://www.wikidata.org/entity/Q65212003,Саид Каримулла Халили,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q4208775,Ульяна Николаевна Нигматуллина,биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2022,Россия
+http://www.wikidata.org/entity/Q4208775,Ульяна Николаевна Нигматуллина,биатлон,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q18603626,Фабьен Клод,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2022,Франция
+http://www.wikidata.org/entity/Q1913846,"Цветков, Максим Сергеевич",биатлон,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2022,Россия
+http://www.wikidata.org/entity/Q28966618,Эмильен Жаклен,биатлон,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2022,Франция
+http://www.wikidata.org/entity/Q48440010,Антон Смольский,биатлон,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2023,Беларусь
+http://www.wikidata.org/entity/Q113753,Дениз Херрманн-Вик,биатлон,http://www.wikidata.org/entity/Q812373,Bayerischer Sportpreis,,2023,Германия
+http://www.wikidata.org/entity/Q113753,Дениз Херрманн-Вик,биатлон,http://www.wikidata.org/entity/Q812373,Bayerischer Sportpreis,,2023,ГДР
+http://www.wikidata.org/entity/Q1334428,Йоханнес Тинес Бё,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2023,Норвегия
+http://www.wikidata.org/entity/Q125350264,Simon Hjelmeset Kirkeeide,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2024,Норвегия
+http://www.wikidata.org/entity/Q115471517,Марен Киркёде,биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2025,Норвегия
+http://www.wikidata.org/entity/Q117287012,"Хедегарт, Эйнар",биатлон,http://www.wikidata.org/entity/Q11981660,Kongepokal,,2025,Норвегия
+http://www.wikidata.org/entity/Q50609592,Вильде Нильсен,биатлон,http://www.wikidata.org/entity/Q1163691,Fearnley award,,2026,Норвегия
+http://www.wikidata.org/entity/Q12105577,Q12105577,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q12105577,Q12105577,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q28114310,Q28114310,плавание,http://www.wikidata.org/entity/Q27918598,мастер спорта Республики Беларусь,,,Беларусь
+http://www.wikidata.org/entity/Q94312498,Ahmed Abdulla KH H Al Thani,плавание,http://www.wikidata.org/entity/Q94572880,Qatar National Arabian Horse Show,,,Катар
+http://www.wikidata.org/entity/Q94312498,Ahmed Abdulla KH H Al Thani,плавание,http://www.wikidata.org/entity/Q94572867,Straight Egyptian Arabian horse world championship,,,Катар
+http://www.wikidata.org/entity/Q94312498,Ahmed Abdulla KH H Al Thani,плавание,http://www.wikidata.org/entity/Q94572864,All Nations Cup,,,Катар
+http://www.wikidata.org/entity/Q21932264,Alice Tai,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q496754,Andreas Daniel Onea,плавание,http://www.wikidata.org/entity/Q18658584,знак I степени почётного знака «За заслуги перед Австрийской Республикой»,,,Австрия
+http://www.wikidata.org/entity/Q60464295,Andrii Derevinskyi,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q108315074,Andrii Trusov,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q108315074,Andrii Trusov,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q108267809,Anna Hontar,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q108267809,Anna Hontar,плавание,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q24033597,Arianna Talamona,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q5026290,Cameron Leslie,плавание,http://www.wikidata.org/entity/Q94162,орден Заслуг,,,Новая Зеландия
+http://www.wikidata.org/entity/Q3664099,Cecilia Camellini,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q9201066,Damian Pietrasik,плавание,http://www.wikidata.org/entity/Q21954284,золотой крест Заслуги,,,Польша
+http://www.wikidata.org/entity/Q9201066,Damian Pietrasik,плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,Польша
+http://www.wikidata.org/entity/Q16223593,Danielle Campo,плавание,http://www.wikidata.org/entity/Q742162,орден Онтарио,,,Канада
+http://www.wikidata.org/entity/Q67387847,Denise Grahl,плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,Германия
+http://www.wikidata.org/entity/Q108376470,Denys Ostapchenko,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,
+http://www.wikidata.org/entity/Q108376470,Denys Ostapchenko,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,
+http://www.wikidata.org/entity/Q701288,Dinko Jukić,плавание,http://www.wikidata.org/entity/Q18658584,знак I степени почётного знака «За заслуги перед Австрийской Республикой»,,,Австрия
+http://www.wikidata.org/entity/Q25172027,"Eleanor ""Ellie"" Robinson",плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q3051481,Ellie Simmonds,плавание,http://www.wikidata.org/entity/Q10762848,офицер ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q5378766,Enhamed Enhamed,плавание,http://www.wikidata.org/entity/Q30860334,золотая медаль Королевского ордена Спортивных заслуг,,,Испания
+http://www.wikidata.org/entity/Q114648731,Ethan Kelly,плавание,http://www.wikidata.org/entity/Q6581478,Латинские награды,,,США
+http://www.wikidata.org/entity/Q114648731,Ethan Kelly,плавание,http://www.wikidata.org/entity/Q7406322,salutatorian,,,США
+http://www.wikidata.org/entity/Q24035645,Francesco Bocciardo,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q24239800,Giulia Ghiretti,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q5648951,Hannah Russell,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q60466643,Illia Yaremenko,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q60466643,Illia Yaremenko,плавание,http://www.wikidata.org/entity/Q29032353,орден «За мужество» I степени,,,Украина
+http://www.wikidata.org/entity/Q60466643,Illia Yaremenko,плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,,Украина
+http://www.wikidata.org/entity/Q130082214,Iryna Poida,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q44057420,Iurii Bozhynskyi,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q1521355,Joanna Mendak,плавание,http://www.wikidata.org/entity/Q15243424,золотая медаль Паралимпийских игр,,,Польша
+http://www.wikidata.org/entity/Q1521355,Joanna Mendak,плавание,http://www.wikidata.org/entity/Q15243454,бронзовая медаль Паралимпийских игр,,,Польша
+http://www.wikidata.org/entity/Q1521355,Joanna Mendak,плавание,http://www.wikidata.org/entity/Q15715251,офицерский крест ордена Возрождения Польши,,,Польша
+http://www.wikidata.org/entity/Q1521355,Joanna Mendak,плавание,http://www.wikidata.org/entity/Q15715250,кавалер ордена Возрождения Польши,,,Польша
+http://www.wikidata.org/entity/Q1521355,Joanna Mendak,плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,Польша
+http://www.wikidata.org/entity/Q82609621,Jonas Larsen,плавание,http://www.wikidata.org/entity/Q15243454,бронзовая медаль Паралимпийских игр,,,Датское королевство
+http://www.wikidata.org/entity/Q6273138,Jonathan Fox,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q6318298,Justin Zook,плавание,http://www.wikidata.org/entity/Q15243665,2012 Summer Paralympic gold medal for men's 100 metre backstroke S10,,,США
+http://www.wikidata.org/entity/Q26904336,Katarina Roxon,плавание,http://www.wikidata.org/entity/Q194540,медаль Бриллиантового юбилея королевы Елизаветы II,,,Канада
+http://www.wikidata.org/entity/Q27734906,Lisa Kruger,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q13767533,Lisa den Braber,плавание,http://www.wikidata.org/entity/Q15243454,бронзовая медаль Паралимпийских игр,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q2266419,Lisette Teunissen,плавание,http://www.wikidata.org/entity/Q15243454,бронзовая медаль Паралимпийских игр,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q2266419,Lisette Teunissen,плавание,http://www.wikidata.org/entity/Q15243424,золотая медаль Паралимпийских игр,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q2266419,Lisette Teunissen,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q2794050,Marc Evers,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q15114586,María Delgado,плавание,http://www.wikidata.org/entity/Q3392949,Королевский орден Спортивных заслуг,,,Испания
+http://www.wikidata.org/entity/Q24452243,Matthew Wylie,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q44918323,Monica Boggioni,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q7086299,Oleksii Fedyna,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q7086299,Oleksii Fedyna,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q7086299,Oleksii Fedyna,плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q108269523,Oleksii Virchenko,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q108269523,Oleksii Virchenko,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q12151206,Olga Sviderska,плавание,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q12151206,Olga Sviderska,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q11798068,Oliwia Jabłońska,плавание,http://www.wikidata.org/entity/Q15715250,кавалер ордена Возрождения Польши,,,Польша
+http://www.wikidata.org/entity/Q11245977,Paulina Woźniak,плавание,http://www.wikidata.org/entity/Q21954284,золотой крест Заслуги,,,Польша
+http://www.wikidata.org/entity/Q7416084,Sandeep Sejwal,плавание,http://www.wikidata.org/entity/Q671622,премия «Арджуна»,,,Индия
+http://www.wikidata.org/entity/Q7496576,Shikha Tandon,плавание,http://www.wikidata.org/entity/Q671622,премия «Арджуна»,,,Индия
+http://www.wikidata.org/entity/Q16234189,Stephanie Slater,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q2303070,Sławomir Kuczko,плавание,http://www.wikidata.org/entity/Q15715250,кавалер ордена Возрождения Польши,,,Польша
+http://www.wikidata.org/entity/Q28151538,Thijs van Hofweegen,плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q873364,бронзовая медаль,,,США
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q847956,серебряная медаль,,,США
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q873364,бронзовая медаль,,,Государство Палестина
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q847956,серебряная медаль,,,Государство Палестина
+http://www.wikidata.org/entity/Q68674588,Viktoriia Savtsova,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q68674588,Viktoriia Savtsova,плавание,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q26973167,Wojciech Makowski,плавание,http://www.wikidata.org/entity/Q21954203,серебряный крест Заслуги,,,
+http://www.wikidata.org/entity/Q12082071,Yana Berezhna,плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q4287066,медаль «За труд и отвагу»,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q29561485,орден княгини Ольги II степени,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q4188105,заслуженный работник физической культуры и спорта Украины,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q29561484,орден княгини Ольги I степени,,,Украина
+http://www.wikidata.org/entity/Q8049609,Yaryna Matlo,плавание,http://www.wikidata.org/entity/Q2212883,орден княгини Ольги,,,Украина
+http://www.wikidata.org/entity/Q4662273,Аарон Мур,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q17465546,Адам Пити,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q529358,Александр Деспати,плавание,http://www.wikidata.org/entity/Q3362502,Зал славы квебекского спорта,,,Канада
+http://www.wikidata.org/entity/Q717306,Александр Николаевич Сухоруков,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q210879,Александра Викторовна Герасименя,плавание,http://www.wikidata.org/entity/Q115440391,Медаль Ордена Погони,,,Беларусь
+http://www.wikidata.org/entity/Q11685205,Александра Урбанчик,плавание,http://www.wikidata.org/entity/Q111512907,почетный гражданин Лодзи,,,Польша
+http://www.wikidata.org/entity/Q455883,Амори Лево,плавание,http://www.wikidata.org/entity/Q13422140,офицер ордена «За заслуги»,,,Франция
+http://www.wikidata.org/entity/Q455883,Амори Лево,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,,Франция
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Россия
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Россия
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Россия
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Россия
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Украина
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,СССР
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,СССР
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,СССР
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,СССР
+http://www.wikidata.org/entity/Q4759386,Андрей Яковлевич Калина,плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,СССР
+http://www.wikidata.org/entity/Q19915730,Антон Михайлович Чупков,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q44485312,Антонио Фантин,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q773740,Аня Клинар,плавание,http://www.wikidata.org/entity/Q20524397,медаль Блоудека,,,Словения
+http://www.wikidata.org/entity/Q831205,Бетани Ферт,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q12083323,"Богодайко, Евгений Витальевич",плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q12083323,"Богодайко, Евгений Витальевич",плавание,http://www.wikidata.org/entity/Q47452388,орден князя Ярослава Мудрого V степени,,,Украина
+http://www.wikidata.org/entity/Q12083323,"Богодайко, Евгений Витальевич",плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q12083323,"Богодайко, Евгений Витальевич",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q2208967,"Ван Раувендал, Шарон",плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q108367692,Виктория Олеговна Ищиулова,плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q5285825,"Виноградец, Дмитрий Николаевич",плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q5285825,"Виноградец, Дмитрий Николаевич",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q5285825,"Виноградец, Дмитрий Николаевич",плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q171327,Владимир Викторович Морозов,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q28570381,Владимир Леонидович Изотов,плавание,http://www.wikidata.org/entity/Q42307908,орден Отечества III степени,,,Беларусь
+http://www.wikidata.org/entity/Q2442285,"Говоров, Андрей Андреевич",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q6069817,"Гражданова, Ирина Сергеевна",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q2107156,Грегорио Пальтриньери,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q502735,"Гречин, Андрей Владимирович",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q24048969,"Григорьев, Дмитрий Сергеевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q16729516,"Гусева, Оксана Михайловна",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q16729516,"Гусева, Оксана Михайловна",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,СССР
+http://www.wikidata.org/entity/Q455769,Дарья Юрьевна Зевина,плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q26251849,Денис Петрашов,плавание,http://www.wikidata.org/entity/Q4286829,медаль «Данк»,,,Кыргызстан
+http://www.wikidata.org/entity/Q4751854,"Диодорова, Анастасия Алексеевна",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q18127716,Дмитрий Сергеевич Салей,плавание,http://www.wikidata.org/entity/Q98538722,Орден «За службу Отечеству» III степени,,,Беларусь
+http://www.wikidata.org/entity/Q18127716,Дмитрий Сергеевич Салей,плавание,http://www.wikidata.org/entity/Q98538722,Орден «За службу Отечеству» III степени,,,Азербайджан
+http://www.wikidata.org/entity/Q18127716,Дмитрий Сергеевич Салей,плавание,http://www.wikidata.org/entity/Q98538722,Орден «За службу Отечеству» III степени,,,СССР
+http://www.wikidata.org/entity/Q4146049,Елизавета Вениаминовна Горшкова,плавание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q4146049,Елизавета Вениаминовна Горшкова,плавание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,СССР
+http://www.wikidata.org/entity/Q26131652,Елизавета Даниловна Мерешеко,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q26131652,Елизавета Даниловна Мерешеко,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q238685,"Ефимова, Юлия Андреевна",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q238685,"Ефимова, Юлия Андреевна",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q266700,"Зуева, Анастасия Валерьевна",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q554855,"Изотов, Данила Сергеевич",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q554855,"Изотов, Данила Сергеевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q260151,"Ильченко, Лариса Дмитриевна",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q260151,"Ильченко, Лариса Дмитриевна",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,СССР
+http://www.wikidata.org/entity/Q108367685,"Исрафилов, Вели Рашадат оглы",плавание,http://www.wikidata.org/entity/Q25541992,почётный диплом Президента Азербайджанской Республики,,,Азербайджан
+http://www.wikidata.org/entity/Q108367685,"Исрафилов, Вели Рашадат оглы",плавание,http://www.wikidata.org/entity/Q98538719,орден «За службу Отечеству» I степени,,,Азербайджан
+http://www.wikidata.org/entity/Q108367685,"Исрафилов, Вели Рашадат оглы",плавание,http://www.wikidata.org/entity/Q126728481,заслуженный мастер спорта Азербайджана,,,Азербайджан
+http://www.wikidata.org/entity/Q108367685,"Исрафилов, Вели Рашадат оглы",плавание,http://www.wikidata.org/entity/Q126728395,мастер спорта Азербайджана,,,Азербайджан
+http://www.wikidata.org/entity/Q137579,Камиль Мюффа,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,,Франция
+http://www.wikidata.org/entity/Q67771778,Карлотта Гилли,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q7454575,"Клипперт, Сергей Викторович",плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q7454575,"Клипперт, Сергей Викторович",плавание,http://www.wikidata.org/entity/Q29032353,орден «За мужество» I степени,,,Украина
+http://www.wikidata.org/entity/Q7454575,"Клипперт, Сергей Викторович",плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,,Украина
+http://www.wikidata.org/entity/Q7454575,"Клипперт, Сергей Викторович",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q3712333,"Кокарев, Дмитрий Васильевич",плавание,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q3712333,"Кокарев, Дмитрий Васильевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q7035072,"Коновалов, Никита Юрьевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q26868454,"Крипак, Максим Сергеевич",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q26868454,"Крипак, Максим Сергеевич",плавание,http://www.wikidata.org/entity/Q4335914,орден Государства,,,Украина
+http://www.wikidata.org/entity/Q1086850,Крис Мирс,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q2027425,"Кужела, Ольга Петровна",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q17129599,Кэйити Кимура,плавание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,,Япония
+http://www.wikidata.org/entity/Q554840,"Лагунов, Евгений Александрович",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q554840,"Лагунов, Евгений Александрович",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q26260726,Леони Бек,плавание,http://www.wikidata.org/entity/Q672787,Баварский орден «За заслуги»,,,Германия
+http://www.wikidata.org/entity/Q26923727,Лизетта Брюинсма,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q554849,"Лобинцев, Никита Константинович",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q554849,"Лобинцев, Никита Константинович",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q26260727,Маргерита Пандзьери,плавание,http://www.wikidata.org/entity/Q124956424,bronze medal for athletic prowess,,,Италия
+http://www.wikidata.org/entity/Q12122075,"Мащенко, Александр Сергеевич",плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q12122075,"Мащенко, Александр Сергеевич",плавание,http://www.wikidata.org/entity/Q29032353,орден «За мужество» I степени,,,Украина
+http://www.wikidata.org/entity/Q12122075,"Мащенко, Александр Сергеевич",плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,,Украина
+http://www.wikidata.org/entity/Q12122075,"Мащенко, Александр Сергеевич",плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q12122075,"Мащенко, Александр Сергеевич",плавание,http://www.wikidata.org/entity/Q29017353,орден «За заслуги» I степени,,,Украина
+http://www.wikidata.org/entity/Q21531041,Мейделин Гровс,плавание,http://www.wikidata.org/entity/Q873364,бронзовая медаль,,,Австралия
+http://www.wikidata.org/entity/Q232218,Мирея Бельмонте Гарсиа,плавание,http://www.wikidata.org/entity/Q30860334,золотая медаль Королевского ордена Спортивных заслуг,,,Испания
+http://www.wikidata.org/entity/Q238266,Мирна Юкич,плавание,http://www.wikidata.org/entity/Q18658584,знак I степени почётного знака «За заслуги перед Австрийской Республикой»,,,Австрия
+http://www.wikidata.org/entity/Q17712350,Михаил Романчук,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q17712350,Михаил Романчук,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q80609677,"Мусабеков, Фирдавсбек Улугбек угли",плавание,http://www.wikidata.org/entity/Q15243424,золотая медаль Паралимпийских игр,,,
+http://www.wikidata.org/entity/Q23542541,Мэттью Абейсингх,плавание,http://www.wikidata.org/entity/Q30633544,Newsfirst Platinum Awards,,,Шри-Ланка
+http://www.wikidata.org/entity/Q4315828,"Неволин-Светов, Александр Александрович",плавание,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q4315828,"Неволин-Светов, Александр Александрович",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q30076280,Николо Мартиненги,плавание,http://www.wikidata.org/entity/Q14539720,кавалер ордена «За заслуги перед Итальянской Республикой»,,,Италия
+http://www.wikidata.org/entity/Q1848695,Орели Мюллер,плавание,http://www.wikidata.org/entity/Q2948691,чемпион мира,,,Франция
+http://www.wikidata.org/entity/Q2706177,Офели-Сирьель Этьенн,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,,Франция
+http://www.wikidata.org/entity/Q19910759,"Павленко, Артём Евгеньевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q28701684,Паламарчук Сергей Павлович,плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,,
+http://www.wikidata.org/entity/Q28701684,Паламарчук Сергей Павлович,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,
+http://www.wikidata.org/entity/Q81235857,"Паньков, Кирилл Дмитриевич",плавание,http://www.wikidata.org/entity/Q15243447,серебряная медаль Паралимпийских игр,,,
+http://www.wikidata.org/entity/Q20716602,"Пахомов, Даниил Павлович",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q23772068,Пенни Олексяк,плавание,http://www.wikidata.org/entity/Q4377033,Премия Бобби Розенфельд,,,Канада
+http://www.wikidata.org/entity/Q5285573,"Полин, Дмитрий Геннадьевич",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q2356473,"Полищук, Михаил Михайлович",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q80640,Радослав Кавенцкий,плавание,http://www.wikidata.org/entity/Q21954203,серебряный крест Заслуги,,,Польша
+http://www.wikidata.org/entity/Q463457,Раноми Кромовидьойо,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q49287,Ребекка Эдлингтон,плавание,http://www.wikidata.org/entity/Q10762848,офицер ордена Британской империи,,,Великобритания
+http://www.wikidata.org/entity/Q4404306,"Савченко, Оксана Владимировна",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q4404306,"Савченко, Оксана Владимировна",плавание,http://www.wikidata.org/entity/Q583881,орден Дружбы народов,,,Россия
+http://www.wikidata.org/entity/Q4404306,"Савченко, Оксана Владимировна",плавание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q4404306,"Савченко, Оксана Владимировна",плавание,http://www.wikidata.org/entity/Q4335958,орден Салавата Юлаева,,,Россия
+http://www.wikidata.org/entity/Q4404306,"Савченко, Оксана Владимировна",плавание,http://www.wikidata.org/entity/Q2268261,орден Почёта,,,Россия
+http://www.wikidata.org/entity/Q240351,Сара Исакович,плавание,http://www.wikidata.org/entity/Q20520760,премия Блоудека,,,Словения
+http://www.wikidata.org/entity/Q240351,Сара Исакович,плавание,http://www.wikidata.org/entity/Q2063865,Список спортсменов года в Словении,,,Словения
+http://www.wikidata.org/entity/Q19115649,Симона Квадарелла,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q749849,орден «Золотая Звезда»,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q4375532,Почётный гражданин Донецка,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q4533508,юбилейная медаль «20 лет независимости Украины»,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q32172,Заслуженный мастер спорта Украины,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,,Украина
+http://www.wikidata.org/entity/Q4424614,"Смирнов, Виктор Сергеевич",плавание,http://www.wikidata.org/entity/Q29032353,орден «За мужество» I степени,,,Украина
+http://www.wikidata.org/entity/Q299747,Станислава Станиславовна Комарова,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q299747,Станислава Станиславовна Комарова,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,СССР
+http://www.wikidata.org/entity/Q7677515,Такаюки Судзуки,плавание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,,Япония
+http://www.wikidata.org/entity/Q81230043,"Тошпулатова, Шохсанамхон Дилшодбек кизи",плавание,http://www.wikidata.org/entity/Q15243454,бронзовая медаль Паралимпийских игр,,,
+http://www.wikidata.org/entity/Q234758,Федерика Пеллегрини,плавание,http://www.wikidata.org/entity/Q406039,золотая медаль,,,Италия
+http://www.wikidata.org/entity/Q234758,Федерика Пеллегрини,плавание,http://www.wikidata.org/entity/Q847956,серебряная медаль,,,Италия
+http://www.wikidata.org/entity/Q234758,Федерика Пеллегрини,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q56043426,"Федина, Марта Вадимовна",плавание,http://www.wikidata.org/entity/Q29561486,орден княгини Ольги III степени,,,Украина
+http://www.wikidata.org/entity/Q20737774,Ферри Вертман,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,,Королевство Нидерландов
+http://www.wikidata.org/entity/Q975249,"Фесиков, Сергей Васильевич",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q137575,Флоран Манаду,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,,Франция
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q4906522,Big Ten Medal of Honor,,,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q17004940,Hong Kong Sports Stars Awards,,,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q4906522,Big Ten Medal of Honor,,,Китай
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q17004940,Hong Kong Sports Stars Awards,,,Китай
+http://www.wikidata.org/entity/Q29789513,Юи Охаси,плавание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,,Япония
+http://www.wikidata.org/entity/Q16707628,Яна Трофимец,плавание,http://www.wikidata.org/entity/Q32172,Заслуженный мастер спорта Украины,,,Украина
+http://www.wikidata.org/entity/Q26678284,Элизабет Маркс,плавание,http://www.wikidata.org/entity/Q4824493,Australian Natural History Medallion,,1981,США
+http://www.wikidata.org/entity/Q6415537,Кирк Торранс,плавание,http://www.wikidata.org/entity/Q107130734,NZ Playwright of the Year,,2003,Новая Зеландия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q458890,рыцарский крест ордена Заслуг Венгерской Республики,,2004,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2004,Венгрия
+http://www.wikidata.org/entity/Q45659,Лор Манаду,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2004,Франция
+http://www.wikidata.org/entity/Q234758,Федерика Пеллегрини,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2004,Италия
+http://www.wikidata.org/entity/Q922338,Эва Риштов,плавание,http://www.wikidata.org/entity/Q1162061,Hungarian Silver Cross,,2004,Венгрия
+http://www.wikidata.org/entity/Q261631,Alice Tait,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2005,Австралия
+http://www.wikidata.org/entity/Q235909,Джессика Шиппер,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2005,Австралия
+http://www.wikidata.org/entity/Q270663,Лизбет Трикетт,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2005,Австралия
+http://www.wikidata.org/entity/Q270686,Лизель Джонс,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2005,Австралия
+http://www.wikidata.org/entity/Q45659,Лор Манаду,плавание,http://www.wikidata.org/entity/Q1061233,Чемпион чемпионов L'Équipe,,2006,Франция
+http://www.wikidata.org/entity/Q264225,Кара Линн Джойс,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2007,США
+http://www.wikidata.org/entity/Q272920,Лотте Фрийс,плавание,http://www.wikidata.org/entity/Q123493343,Bestsellers Olympiske Håb,,2007,Датское королевство
+http://www.wikidata.org/entity/Q2367750,Caroline Burckle,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2008,США
+http://www.wikidata.org/entity/Q3664099,Cecilia Camellini,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2008,Италия
+http://www.wikidata.org/entity/Q11980396,Katharina Stiberg,плавание,http://www.wikidata.org/entity/Q1734266,премия Каролины,,2008,Норвегия
+http://www.wikidata.org/entity/Q271205,Lacey Nymeyer,плавание,http://www.wikidata.org/entity/Q15889641,серебряная медаль Олимпийских игр,,2008,США
+http://www.wikidata.org/entity/Q3588012,Élodie Lorandi,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2008,Франция
+http://www.wikidata.org/entity/Q241487,Алессия Филиппи,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2008,Италия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2008,Венгрия
+http://www.wikidata.org/entity/Q5221436,Даниил Владимирович Чуфаров,плавание,http://www.wikidata.org/entity/Q29032357,орден «За мужество» III степени,,2008,Украина
+http://www.wikidata.org/entity/Q39562,Майкл Фелпс,плавание,http://www.wikidata.org/entity/Q743122,Спортсмен года «Ассошиэйтед Пресс»,,2008,США
+http://www.wikidata.org/entity/Q463457,Раноми Кромовидьойо,плавание,http://www.wikidata.org/entity/Q22987695,Талант года в Нидерландах,,2008,Королевство Нидерландов
+http://www.wikidata.org/entity/Q4923064,Сирикития Йенсен,плавание,http://www.wikidata.org/entity/Q106471762,Большая лента ордена Короны Таиланда,,2008,США
+http://www.wikidata.org/entity/Q4923064,Сирикития Йенсен,плавание,http://www.wikidata.org/entity/Q106471762,Большая лента ордена Короны Таиланда,,2008,Таиланд
+http://www.wikidata.org/entity/Q2891436,Софи Паско,плавание,http://www.wikidata.org/entity/Q23050104,член ордена Заслуг,,2008,Новая Зеландия
+http://www.wikidata.org/entity/Q234758,Федерика Пеллегрини,плавание,http://www.wikidata.org/entity/Q14539729,командор ордена «За заслуги перед Итальянской Республикой»,,2008,Италия
+http://www.wikidata.org/entity/Q1905445,Angie Bainbridge,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q1109723,Gergő Kis,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2009,Венгрия
+http://www.wikidata.org/entity/Q8053798,Yip Pin Xiu,плавание,http://www.wikidata.org/entity/Q7195759,Pingat Jasa Gemilang,,2009,Сингапур
+http://www.wikidata.org/entity/Q264383,Бронте Барратт,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q271208,Гальвез Фелисити,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q231243,Дана Воллмер,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2009,США
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2009,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q782485,Hungarian Sportspeople of the Year,,2009,Венгрия
+http://www.wikidata.org/entity/Q264433,Кайли Палмер,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q667655,Катинка Хоссу,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2009,Венгрия
+http://www.wikidata.org/entity/Q1803386,Кёбрих Кристель,плавание,http://www.wikidata.org/entity/Q16621569,National Sports Award of Chile,,2009,Чили
+http://www.wikidata.org/entity/Q1803386,Кёбрих Кристель,плавание,http://www.wikidata.org/entity/Q6084920,Премия лучшему спортсмену Чили,,2009,Чили
+http://www.wikidata.org/entity/Q272920,Лотте Фрийс,плавание,http://www.wikidata.org/entity/Q2312659,Спортсмен года в Дании,,2009,Датское королевство
+http://www.wikidata.org/entity/Q271211,Мелани Шлангер,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q60275,Пауль Бидерман,плавание,http://www.wikidata.org/entity/Q876882,Спортсмен года в Германии,,2009,Германия
+http://www.wikidata.org/entity/Q49287,Ребекка Эдлингтон,плавание,http://www.wikidata.org/entity/Q680221,Laureus World Sports Award — Прорыв года,,2009,Великобритания
+http://www.wikidata.org/entity/Q228660,Стефани Райс,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q240668,Эмили Сибом,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2009,Австралия
+http://www.wikidata.org/entity/Q2371607,Julia Smit,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2010,США
+http://www.wikidata.org/entity/Q1704073,Mie Nielsen,плавание,http://www.wikidata.org/entity/Q105974097,Q105974097,,2010,Датское королевство
+http://www.wikidata.org/entity/Q9355422,Tamás Sors,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2010,Венгрия
+http://www.wikidata.org/entity/Q843822,Богларка Капаш,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2010,Венгрия
+http://www.wikidata.org/entity/Q667655,Катинка Хоссу,плавание,http://www.wikidata.org/entity/Q458890,рыцарский крест ордена Заслуг Венгерской Республики,,2010,Венгрия
+http://www.wikidata.org/entity/Q685007,Bence Biczó,плавание,http://www.wikidata.org/entity/Q20439991,Junior Prima,,2011,Венгрия
+http://www.wikidata.org/entity/Q1395659,Triin Aljand,плавание,http://www.wikidata.org/entity/Q1130101,спортсмен года в Эстонии,,2011,Эстония
+http://www.wikidata.org/entity/Q7933681,Virdhawal Khade,плавание,http://www.wikidata.org/entity/Q671622,премия «Арджуна»,,2011,Индия
+http://www.wikidata.org/entity/Q311061,Александр Дале Оен,плавание,http://www.wikidata.org/entity/Q388826,золотая медаль Aftenposten,,2011,Норвегия
+http://www.wikidata.org/entity/Q311061,Александр Дале Оен,плавание,http://www.wikidata.org/entity/Q1859368,Норвежский спортсмен года,,2011,Норвегия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2011,Венгрия
+http://www.wikidata.org/entity/Q272922,Джанетт Оттесен,плавание,http://www.wikidata.org/entity/Q2312659,Спортсмен года в Дании,,2011,Датское королевство
+http://www.wikidata.org/entity/Q667655,Катинка Хоссу,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2011,Венгрия
+http://www.wikidata.org/entity/Q501155,Andreas Waschburger,плавание,http://www.wikidata.org/entity/Q24068776,Saarland Athlete of the Year,,2012,Германия
+http://www.wikidata.org/entity/Q946416,Clément Lefert,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2012,Франция
+http://www.wikidata.org/entity/Q3119035,Margaux Farrell,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2012,Франция
+http://www.wikidata.org/entity/Q2671003,Martina Grimaldi,плавание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,2012,Италия
+http://www.wikidata.org/entity/Q1972373,Mylène Lazare,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2012,Франция
+http://www.wikidata.org/entity/Q2039983,Sarah Louise Rung,плавание,http://www.wikidata.org/entity/Q388826,золотая медаль Aftenposten,,2012,Норвегия
+http://www.wikidata.org/entity/Q1395659,Triin Aljand,плавание,http://www.wikidata.org/entity/Q1130101,спортсмен года в Эстонии,,2012,Эстония
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q94414062,Q94414062,,2012,Беларусь
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2012,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q782485,Hungarian Sportspeople of the Year,,2012,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q56479277,почётный гражданин Будапешта,,2012,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q458883,командор ордена Заслуг Венгрии,,2012,Венгрия
+http://www.wikidata.org/entity/Q5221436,Даниил Владимирович Чуфаров,плавание,http://www.wikidata.org/entity/Q29032354,орден «За мужество» II степени,,2012,Украина
+http://www.wikidata.org/entity/Q16236574,Дарья Пикалова,плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,2012,Россия
+http://www.wikidata.org/entity/Q16236574,Дарья Пикалова,плавание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2012,Россия
+http://www.wikidata.org/entity/Q312443,Жереми Стравьюс,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2012,Франция
+http://www.wikidata.org/entity/Q137579,Камиль Мюффа,плавание,http://www.wikidata.org/entity/Q99526970,Чемпион Франции по версии L'Équipe,,2012,Франция
+http://www.wikidata.org/entity/Q254548,Кейтлин Леверенц,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2012,США
+http://www.wikidata.org/entity/Q271191,Корали Балми,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2012,Франция
+http://www.wikidata.org/entity/Q39562,Майкл Фелпс,плавание,http://www.wikidata.org/entity/Q743122,Спортсмен года «Ассошиэйтед Пресс»,,2012,США
+http://www.wikidata.org/entity/Q6779539,Мэри Фишер,плавание,http://www.wikidata.org/entity/Q23050104,член ордена Заслуг,,2012,Новая Зеландия
+http://www.wikidata.org/entity/Q213125,Рута Мейлутите,плавание,http://www.wikidata.org/entity/Q16467857,гранд-офицер ордена «За заслуги перед Литвой»,,2012,Литва
+http://www.wikidata.org/entity/Q213125,Рута Мейлутите,плавание,http://www.wikidata.org/entity/Q15243387,золотая медаль Олимпийских игр,,2012,Литва
+http://www.wikidata.org/entity/Q238277,Тан И,плавание,http://www.wikidata.org/entity/Q6973758,награда директора Национальных институтов здравоохранения за передовые исследования,,2012,Китай
+http://www.wikidata.org/entity/Q129192,Шарлотта Бонне,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2012,Франция
+http://www.wikidata.org/entity/Q922338,Эва Риштов,плавание,http://www.wikidata.org/entity/Q20439206,Q20439206,,2012,Венгрия
+http://www.wikidata.org/entity/Q312872,Янник Аньель,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2012,Франция
+http://www.wikidata.org/entity/Q3664099,Cecilia Camellini,плавание,http://www.wikidata.org/entity/Q14539729,командор ордена «За заслуги перед Итальянской Республикой»,,2013,Италия
+http://www.wikidata.org/entity/Q3741829,Federico Morlacchi,плавание,http://www.wikidata.org/entity/Q14539720,кавалер ордена «За заслуги перед Итальянской Республикой»,,2013,Италия
+http://www.wikidata.org/entity/Q2671003,Martina Grimaldi,плавание,http://www.wikidata.org/entity/Q14539720,кавалер ордена «За заслуги перед Итальянской Республикой»,,2013,Италия
+http://www.wikidata.org/entity/Q14515413,Michelle Alonso,плавание,http://www.wikidata.org/entity/Q30860334,золотая медаль Королевского ордена Спортивных заслуг,,2013,Испания
+http://www.wikidata.org/entity/Q11798068,Oliwia Jabłońska,плавание,http://www.wikidata.org/entity/Q21954203,серебряный крест Заслуги,,2013,Польша
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2013,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2013,США
+http://www.wikidata.org/entity/Q3588012,Élodie Lorandi,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2013,Франция
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q110458498,honorary citizen of Babruysk,,2013,Беларусь
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2013,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q782485,Hungarian Sportspeople of the Year,,2013,Венгрия
+http://www.wikidata.org/entity/Q144313,Даниель Дьюрта,плавание,http://www.wikidata.org/entity/Q458902,офицерский крест ордена Заслуг Венгрии,,2013,Венгрия
+http://www.wikidata.org/entity/Q6187054,Джессика-Джейн Эпплгейт,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2013,Великобритания
+http://www.wikidata.org/entity/Q117867,Мисси Франклин,плавание,http://www.wikidata.org/entity/Q4896823,Best U.S. Female Olympian ESPY Award,,2013,США
+http://www.wikidata.org/entity/Q2891436,Софи Паско,плавание,http://www.wikidata.org/entity/Q15275024,Attitude Sports Performer award,,2013,Новая Зеландия
+http://www.wikidata.org/entity/Q2891436,Софи Паско,плавание,http://www.wikidata.org/entity/Q5641141,Halberg awards,,2013,Новая Зеландия
+http://www.wikidata.org/entity/Q313891,Чад Ле Кло,плавание,http://www.wikidata.org/entity/Q139858012,Silver Order of Ikhamanga,,2013,ЮАР
+http://www.wikidata.org/entity/Q313891,Чад Ле Кло,плавание,http://www.wikidata.org/entity/Q139858012,Silver Order of Ikhamanga,,2013,Маврикий
+http://www.wikidata.org/entity/Q922338,Эва Риштов,плавание,http://www.wikidata.org/entity/Q58408345,почётный гражданин Дебрецена,,2013,Венгрия
+http://www.wikidata.org/entity/Q233469,Эллисон Шмитт,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2013,США
+http://www.wikidata.org/entity/Q18631386,Felicia Lee,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2014,США
+http://www.wikidata.org/entity/Q14372104,Heerden Herman,плавание,http://www.wikidata.org/entity/Q1204346,Стипендия Родса,,2014,ЮАР
+http://www.wikidata.org/entity/Q6376350,Katherine Downie,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2014,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2014,США
+http://www.wikidata.org/entity/Q7782865,Theresa Goh,плавание,http://www.wikidata.org/entity/Q21472651,Зал славы женщин Сингапура,,2014,Сингапур
+http://www.wikidata.org/entity/Q8053798,Yip Pin Xiu,плавание,http://www.wikidata.org/entity/Q21472651,Зал славы женщин Сингапура,,2014,Сингапур
+http://www.wikidata.org/entity/Q1966907,Yolane Kukla,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q2075312,Алишия Куттс,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q2739656,Бриттани Элмсли,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q318410,Камерон ван дер Бург,плавание,http://www.wikidata.org/entity/Q139858012,Silver Order of Ikhamanga,,2014,ЮАР
+http://www.wikidata.org/entity/Q261594,Кейт Кэмпбелл,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q1061233,Чемпион чемпионов L'Équipe,,2014,США
+http://www.wikidata.org/entity/Q117867,Мисси Франклин,плавание,http://www.wikidata.org/entity/Q1648927,Laureus World Sports Award — Спортсменка года,,2014,США
+http://www.wikidata.org/entity/Q235315,Сара Шёстрём,плавание,http://www.wikidata.org/entity/Q663431,Jerring Award,,2014,Швеция
+http://www.wikidata.org/entity/Q5365333,Элли Коул,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2014,Австралия
+http://www.wikidata.org/entity/Q20644831,Маррит Стенберген,плавание,http://www.wikidata.org/entity/Q22987695,Талант года в Нидерландах,,2015,Королевство Нидерландов
+http://www.wikidata.org/entity/Q117867,Мисси Франклин,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2015,США
+http://www.wikidata.org/entity/Q117867,Мисси Франклин,плавание,http://www.wikidata.org/entity/Q4896644,Best Female College Athlete ESPY Award,,2015,США
+http://www.wikidata.org/entity/Q235315,Сара Шёстрём,плавание,http://www.wikidata.org/entity/Q2297250,Svenska Dagbladet Gold Medal,,2015,Швеция
+http://www.wikidata.org/entity/Q235315,Сара Шёстрём,плавание,http://www.wikidata.org/entity/Q663431,Jerring Award,,2015,Швеция
+http://www.wikidata.org/entity/Q235315,Сара Шёстрём,плавание,http://www.wikidata.org/entity/Q3359291,Victoria Award,,2015,Швеция
+http://www.wikidata.org/entity/Q137575,Флоран Манаду,плавание,http://www.wikidata.org/entity/Q99526970,Чемпион Франции по версии L'Équipe,,2015,Франция
+http://www.wikidata.org/entity/Q24033574,Arjola Trimi,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q17580287,Clément Mignon,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2016,Франция
+http://www.wikidata.org/entity/Q3741829,Federico Morlacchi,плавание,http://www.wikidata.org/entity/Q14539729,командор ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q3749626,Francesco Bettella,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q24035645,Francesco Bocciardo,плавание,http://www.wikidata.org/entity/Q14539729,командор ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q24239800,Giulia Ghiretti,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q2039983,Sarah Louise Rung,плавание,http://www.wikidata.org/entity/Q11997397,Government Paralympic honorary award,,2016,Норвегия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2016,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q458890,рыцарский крест ордена Заслуг Венгерской Республики,,2016,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2016,США
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q458890,рыцарский крест ордена Заслуг Венгерской Республики,,2016,США
+http://www.wikidata.org/entity/Q24033576,Vincenzo Boni,плавание,http://www.wikidata.org/entity/Q14539720,кавалер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q1920348,William Meynard,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2016,Франция
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q42307908,орден Отечества III степени,,2016,Беларусь
+http://www.wikidata.org/entity/Q3928569,Бруни Ракеле,плавание,http://www.wikidata.org/entity/Q14539726,офицер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q93993,Габриэле Детти,плавание,http://www.wikidata.org/entity/Q14539720,кавалер ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q2107156,Грегорио Пальтриньери,плавание,http://www.wikidata.org/entity/Q14539729,командор ордена «За заслуги перед Итальянской Республикой»,,2016,Италия
+http://www.wikidata.org/entity/Q5221436,Даниил Владимирович Чуфаров,плавание,http://www.wikidata.org/entity/Q29032353,орден «За мужество» I степени,,2016,Украина
+http://www.wikidata.org/entity/Q22097296,Келси Далия,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2016,США
+http://www.wikidata.org/entity/Q2717727,Косукэ Хагино,плавание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,2016,Япония
+http://www.wikidata.org/entity/Q23926196,Марк-Антуан Оливье,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2016,Франция
+http://www.wikidata.org/entity/Q115794,Мехди Метелла,плавание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2016,Франция
+http://www.wikidata.org/entity/Q1754792,Пернилле Блуме,плавание,http://www.wikidata.org/entity/Q2312659,Спортсмен года в Дании,,2016,Датское королевство
+http://www.wikidata.org/entity/Q11647857,Риэ Канэто,плавание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,2016,Япония
+http://www.wikidata.org/entity/Q20986447,"Рылов, Евгений Михайлович",плавание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,2016,Россия
+http://www.wikidata.org/entity/Q20986447,"Рылов, Евгений Михайлович",плавание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2016,Россия
+http://www.wikidata.org/entity/Q16052872,Ширин Герами,плавание,http://www.wikidata.org/entity/Q16153104,100 женщин,,2016,Иран
+http://www.wikidata.org/entity/Q5125164,Claire Cashmore,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2017,Великобритания
+http://www.wikidata.org/entity/Q26507731,Márton Barta,плавание,http://www.wikidata.org/entity/Q63992493,Q63992493,,2017,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2017,Венгрия
+http://www.wikidata.org/entity/Q26232789,Shane Tusup,плавание,http://www.wikidata.org/entity/Q1500883,Hungarian Sports Coach of the Year,,2017,США
+http://www.wikidata.org/entity/Q8053798,Yip Pin Xiu,плавание,http://www.wikidata.org/entity/Q115088788,Gen.T (Singapore),,2017,Сингапур
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q64623697,За развитие физической культуры и спорта в Республике Беларусь,,2017,Беларусь
+http://www.wikidata.org/entity/Q510525,Бронте Кэмпбелл,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2017,Австралия
+http://www.wikidata.org/entity/Q21005306,Кайл Чалмерс,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2017,Австралия
+http://www.wikidata.org/entity/Q667655,Катинка Хоссу,плавание,http://www.wikidata.org/entity/Q56479277,почётный гражданин Будапешта,,2017,Венгрия
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q6781530,Зал славы женщин Мэриленда,,2017,США
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q1061233,Чемпион чемпионов L'Équipe,,2017,США
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2017,США
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q743122,Спортсмен года «Ассошиэйтед Пресс»,,2017,США
+http://www.wikidata.org/entity/Q17580011,Мак Хортон,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2017,Австралия
+http://www.wikidata.org/entity/Q463457,Раноми Кромовидьойо,плавание,http://www.wikidata.org/entity/Q110889980,почетный гражданин Северного Брабанта,,2017,Королевство Нидерландов
+http://www.wikidata.org/entity/Q20754732,Уилсон Мэдисон,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2017,Австралия
+http://www.wikidata.org/entity/Q14638241,Эмма Маккеон,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2017,Австралия
+http://www.wikidata.org/entity/Q114380225,Andoni Polo Roca,плавание,http://www.wikidata.org/entity/Q59781781,Премия лучшему выпускнику университета,,2018,Испания
+http://www.wikidata.org/entity/Q58919226,Haven Shepherd,плавание,http://www.wikidata.org/entity/Q16153104,100 женщин,,2018,Вьетнам
+http://www.wikidata.org/entity/Q26904336,Katarina Roxon,плавание,http://www.wikidata.org/entity/Q512464,орден Ньюфаундленда и Лабрадора,,2018,Канада
+http://www.wikidata.org/entity/Q26263150,Naomi Ruele,плавание,http://www.wikidata.org/entity/Q54889438,100 женщин по версии журнала «OkayAfrica»,,2018,Ботсвана
+http://www.wikidata.org/entity/Q33259050,"Колесников, Климент Андреевич",плавание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2018,Россия
+http://www.wikidata.org/entity/Q6660196,Лиз Джонсон,плавание,http://www.wikidata.org/entity/Q16153104,100 женщин,,2018,Великобритания
+http://www.wikidata.org/entity/Q26260727,Маргерита Пандзьери,плавание,http://www.wikidata.org/entity/Q124956423,silver medal for athletic prowess,,2018,Италия
+http://www.wikidata.org/entity/Q14342739,Симоне Мануэль,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2018,США
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088784,Gen.T,,2018,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088784,Gen.T,,2018,Китай
+http://www.wikidata.org/entity/Q33982288,Michael Gunning,плавание,http://www.wikidata.org/entity/Q65064722,Attitude Pride Award,,2019,Великобритания
+http://www.wikidata.org/entity/Q33982288,Michael Gunning,плавание,http://www.wikidata.org/entity/Q65064722,Attitude Pride Award,,2019,Ямайка
+http://www.wikidata.org/entity/Q65807759,Tobias Bjerg,плавание,http://www.wikidata.org/entity/Q123493343,Bestsellers Olympiske Håb,,2019,Датское королевство
+http://www.wikidata.org/entity/Q64852933,Александр Канторов,плавание,http://www.wikidata.org/entity/Q1209101,Золотой камертон,,2019,Франция
+http://www.wikidata.org/entity/Q831205,Бетани Ферт,плавание,http://www.wikidata.org/entity/Q16153104,100 женщин,,2019,Великобритания
+http://www.wikidata.org/entity/Q830697,Елизавета Бельгийская,плавание,http://www.wikidata.org/entity/Q14900501,Большая лента ордена Леопольда I,,2019,Бельгия
+http://www.wikidata.org/entity/Q25028591,Лилли Кинг,плавание,http://www.wikidata.org/entity/Q89511002,Honda Sports Award for Swimming & Diving,,2019,США
+http://www.wikidata.org/entity/Q1091290,Лорен Бойль,плавание,http://www.wikidata.org/entity/Q23050104,член ордена Заслуг,,2019,Новая Зеландия
+http://www.wikidata.org/entity/Q4923064,Сирикития Йенсен,плавание,http://www.wikidata.org/entity/Q13015655,гранд-командор ордена Чула Чом Клао,,2019,США
+http://www.wikidata.org/entity/Q4923064,Сирикития Йенсен,плавание,http://www.wikidata.org/entity/Q13015655,гранд-командор ордена Чула Чом Клао,,2019,Таиланд
+http://www.wikidata.org/entity/Q5435278,Фарида Осман,плавание,http://www.wikidata.org/entity/Q16153104,100 женщин,,2019,США
+http://www.wikidata.org/entity/Q64852933,Александр Канторов,плавание,http://www.wikidata.org/entity/Q1662023,Виктуар де ля мюзик,,2020,Франция
+http://www.wikidata.org/entity/Q67770315,Валерия Шабалина,плавание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,2020,Россия
+http://www.wikidata.org/entity/Q7608227,Оу Кайчунь,плавание,http://www.wikidata.org/entity/Q115088784,Gen.T,,2020,Гонконг
+http://www.wikidata.org/entity/Q26923724,Chantalle Zijderveld,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,2021,Королевство Нидерландов
+http://www.wikidata.org/entity/Q108305091,Mykhailo Serbin,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,2021,Украина
+http://www.wikidata.org/entity/Q108282748,Rogier Dorsman,плавание,http://www.wikidata.org/entity/Q5442991,рыцарь ордена Оранских-Нассау,,2021,Королевство Нидерландов
+http://www.wikidata.org/entity/Q33320188,Tilka Paljk,плавание,http://www.wikidata.org/entity/Q28453732,Forbes 30 Under 30,,2021,Замбия
+http://www.wikidata.org/entity/Q8053798,Yip Pin Xiu,плавание,http://www.wikidata.org/entity/Q115088775,Asia's Most Influential Singapore,,2021,Сингапур
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q108213320,Белорусский спортивный Олимп,,2021,Беларусь
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q76328324,Q76328324,,2021,Беларусь
+http://www.wikidata.org/entity/Q6286898,Джозеф Скулинг,плавание,http://www.wikidata.org/entity/Q115088775,Asia's Most Influential Singapore,,2021,Сингапур
+http://www.wikidata.org/entity/Q33259050,"Колесников, Климент Андреевич",плавание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2021,Россия
+http://www.wikidata.org/entity/Q7608227,Оу Кайчунь,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2021,Гонконг
+http://www.wikidata.org/entity/Q20986447,"Рылов, Евгений Михайлович",плавание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,2021,Россия
+http://www.wikidata.org/entity/Q2891436,Софи Паско,плавание,http://www.wikidata.org/entity/Q23049782,дама-компаньон ордена Заслуг,,2021,Новая Зеландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2021,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2021,Китай
+http://www.wikidata.org/entity/Q106540402,Энели Ефимова,плавание,http://www.wikidata.org/entity/Q12358130,Estonian Young Sports Personality of the Year,,2021,Эстония
+http://www.wikidata.org/entity/Q114380225,Andoni Polo Roca,плавание,http://www.wikidata.org/entity/Q108837831,"""Antonio Hernández-Gil"" Young Lawyers Award",,2022,Испания
+http://www.wikidata.org/entity/Q17418759,Calum Jarvis,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q5648951,Hannah Russell,плавание,http://www.wikidata.org/entity/Q10762848,офицер ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q18208511,Lauren Steadman,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q66007243,Lena Grabowski,плавание,http://www.wikidata.org/entity/Q2312686,Q2312686,,2022,Австрия
+http://www.wikidata.org/entity/Q56222475,Maisie Summers-Newton,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q4974360,Maja Reichard,плавание,http://www.wikidata.org/entity/Q116767014,Q116767014,,2022,Швеция
+http://www.wikidata.org/entity/Q108267814,Reece Dunn,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q117451067,Riley Gaines,плавание,http://www.wikidata.org/entity/Q4724179,Algernon Sydney Sullivan Award,,2022,США
+http://www.wikidata.org/entity/Q8053798,Yip Pin Xiu,плавание,http://www.wikidata.org/entity/Q115088775,Asia's Most Influential Singapore,,2022,Сингапур
+http://www.wikidata.org/entity/Q17465546,Адам Пити,плавание,http://www.wikidata.org/entity/Q10762848,офицер ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q51674608,Анна Хопкин,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q831205,Бетани Ферт,плавание,http://www.wikidata.org/entity/Q10762848,офицер ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q843822,Богларка Капаш,плавание,http://www.wikidata.org/entity/Q66829133,почётный гражданин IV района Будапешта,,2022,Венгрия
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2022,Беларусь
+http://www.wikidata.org/entity/Q20713072,Данкан Скотт,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q18216859,Джеймс Гай,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q108326378,Егор Петрович Щелканов,плавание,http://www.wikidata.org/entity/Q14798317,медаль «За трудовые заслуги»,,2022,Беларусь
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q743122,Спортсмен года «Ассошиэйтед Пресс»,,2022,США
+http://www.wikidata.org/entity/Q107634149,Молли О’Каллаган,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2022,Австралия
+http://www.wikidata.org/entity/Q107104583,Мэттью Ричардс,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q33624427,Фрея Андерсон,плавание,http://www.wikidata.org/entity/Q12201526,член ордена Британской империи,,2022,Великобритания
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2022,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2022,Китай
+http://www.wikidata.org/entity/Q14638241,Эмма Маккеон,плавание,http://www.wikidata.org/entity/Q9678710,член ордена Австралии,,2022,Австралия
+http://www.wikidata.org/entity/Q106540402,Энели Ефимова,плавание,http://www.wikidata.org/entity/Q16410965,Sports Award of the Republic of Estonia,,2022,Эстония
+http://www.wikidata.org/entity/Q124034395,Henry Hein,плавание,http://www.wikidata.org/entity/Q12358132,тренер года в Эстонии,,2023,Эстония
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q847956,серебряная медаль,,2023,США
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q406039,золотая медаль,,2023,США
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q847956,серебряная медаль,,2023,Государство Палестина
+http://www.wikidata.org/entity/Q120378939,Valerie Tarazi,плавание,http://www.wikidata.org/entity/Q406039,золотая медаль,,2023,Государство Палестина
+http://www.wikidata.org/entity/Q107644800,Yazan Al-Bawwab,плавание,http://www.wikidata.org/entity/Q406039,золотая медаль,,2023,Италия
+http://www.wikidata.org/entity/Q107644800,Yazan Al-Bawwab,плавание,http://www.wikidata.org/entity/Q406039,золотая медаль,,2023,Государство Палестина
+http://www.wikidata.org/entity/Q63246909,Леон Маршан,плавание,http://www.wikidata.org/entity/Q99526970,Чемпион Франции по версии L'Équipe,,2023,Франция
+http://www.wikidata.org/entity/Q113187881,Николетт Падар,плавание,http://www.wikidata.org/entity/Q786266,Q786266,,2023,Венгрия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2023,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2023,Китай
+http://www.wikidata.org/entity/Q106540402,Энели Ефимова,плавание,http://www.wikidata.org/entity/Q1130101,спортсмен года в Эстонии,,2023,Эстония
+http://www.wikidata.org/entity/Q106540402,Энели Ефимова,плавание,http://www.wikidata.org/entity/Q12358130,Estonian Young Sports Personality of the Year,,2023,Эстония
+http://www.wikidata.org/entity/Q28114387,Q28114387,плавание,http://www.wikidata.org/entity/Q15623467,Благодарность Президента Республики Беларусь,,2024,Беларусь
+http://www.wikidata.org/entity/Q130073135,Alexander Hillhouse,плавание,http://www.wikidata.org/entity/Q81063002,Kulturministerens Parasportspris,,2024,Датское королевство
+http://www.wikidata.org/entity/Q124034395,Henry Hein,плавание,http://www.wikidata.org/entity/Q12358132,тренер года в Эстонии,,2024,Эстония
+http://www.wikidata.org/entity/Q117835990,Lucas Henveaux,плавание,http://www.wikidata.org/entity/Q61753716,почётный гражданин Льежа,,2024,Бельгия
+http://www.wikidata.org/entity/Q108305091,Mykhailo Serbin,плавание,http://www.wikidata.org/entity/Q29017356,орден «За заслуги» II степени,,2024,Украина
+http://www.wikidata.org/entity/Q127947029,Olivia Wunsch,плавание,http://www.wikidata.org/entity/Q15271575,Sport Australia Hall of Fame,,2024,Австралия
+http://www.wikidata.org/entity/Q19577601,Sajan Prakash,плавание,http://www.wikidata.org/entity/Q671622,премия «Арджуна»,,2024,Индия
+http://www.wikidata.org/entity/Q64852933,Александр Канторов,плавание,http://www.wikidata.org/entity/Q5562519,Gilmore Artist Award,,2024,Франция
+http://www.wikidata.org/entity/Q64852933,Александр Канторов,плавание,http://www.wikidata.org/entity/Q1662023,Виктуар де ля мюзик,,2024,Франция
+http://www.wikidata.org/entity/Q4090550,"Бокий, Игорь Александрович",плавание,http://www.wikidata.org/entity/Q69699352,орден Отечества II степени,,2024,Беларусь
+http://www.wikidata.org/entity/Q109719090,Гретчен Уолш,плавание,http://www.wikidata.org/entity/Q4650547,ACC Athlete of the Year,,2024,США
+http://www.wikidata.org/entity/Q5221436,Даниил Владимирович Чуфаров,плавание,http://www.wikidata.org/entity/Q29017281,орден «За заслуги» III степени,,2024,Украина
+http://www.wikidata.org/entity/Q108326378,Егор Петрович Щелканов,плавание,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2024,Беларусь
+http://www.wikidata.org/entity/Q137374,Кэти Ледеки,плавание,http://www.wikidata.org/entity/Q17144,Президентская медаль Свободы,,2024,США
+http://www.wikidata.org/entity/Q63246909,Леон Маршан,плавание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2024,Франция
+http://www.wikidata.org/entity/Q55562572,Оливер Цайдлер,плавание,http://www.wikidata.org/entity/Q876882,Спортсмен года в Германии,,2024,Германия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2024,Ирландия
+http://www.wikidata.org/entity/Q18165115,Шивон Хоги,плавание,http://www.wikidata.org/entity/Q115088770,Самые влиятельные люди Гонконга,,2024,Китай
+http://www.wikidata.org/entity/Q5365333,Элли Коул,плавание,http://www.wikidata.org/entity/Q9678710,член ордена Австралии,,2024,Австралия
+http://www.wikidata.org/entity/Q124034395,Henry Hein,плавание,http://www.wikidata.org/entity/Q12358132,тренер года в Эстонии,,2025,Эстония
+http://www.wikidata.org/entity/Q128268867,Jamie Perkins,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q107321228,Keira Stephens,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q127947029,Olivia Wunsch,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q108106487,Thomas Gallagher,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,
+http://www.wikidata.org/entity/Q2054763,Камерон Макэвой,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q109500259,Лани Паллистер,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q63246909,Леон Маршан,плавание,http://www.wikidata.org/entity/Q604370,Time 100,,2025,Франция
+http://www.wikidata.org/entity/Q1754792,Пернилле Блуме,плавание,http://www.wikidata.org/entity/Q2312433,Danish Sports Hall of Fame,,2025,Датское королевство
+http://www.wikidata.org/entity/Q51629163,Татьяна Шёнмейкер,плавание,http://www.wikidata.org/entity/Q138642063,South African Sportswoman of the Year,,2025,ЮАР
+http://www.wikidata.org/entity/Q33827665,Шейна Джек,плавание,http://www.wikidata.org/entity/Q9682417,медаль ордена Австралии,,2025,Австралия
+http://www.wikidata.org/entity/Q28114422,"Шиманович, Илья Сергеевич",плавание,http://www.wikidata.org/entity/Q32181,заслуженный мастер спорта Республики Беларусь,,2025,Беларусь
+http://www.wikidata.org/entity/Q355113,Аделина Дмитриевна Сотникова,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q50380404,Александр Романович Галлямов,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q61634890,Алексей Александрович Брюханов,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q131522458,Алина Горбачёва,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q26910816,Алина Ильназовна Загитова,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q26910816,Алина Ильназовна Загитова,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q26910816,Алина Ильназовна Загитова,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q26910816,Алина Ильназовна Загитова,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q41686780,Алёна Сергеевна Косторная,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q41686780,Алёна Сергеевна Косторная,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q23593908,Анастасия Викторовна Мишина,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q111575648,Анастасия Мухортова,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q56753682,Андрей Михайлович Мозалёв,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q291835,Анна Каппеллини,фигурное катание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q133868969,Анна Михайловна Щербакова,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q29932516,Анна Станиславовна Щербакова,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q115114306,Вероника Яметова,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q211185,Владимир Евгеньевич Морозов,фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q211185,Владимир Евгеньевич Морозов,фигурное катание,http://www.wikidata.org/entity/Q86003383,медаль ордена «За заслуги перед Республикой Татарстан»,,,Россия
+http://www.wikidata.org/entity/Q211185,Владимир Евгеньевич Морозов,фигурное катание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q211185,Владимир Евгеньевич Морозов,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q61413133,Глеб Олегович Лутфуллин,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q5219518,"Глейхенгауз, Даниил Маркович",фигурное катание,http://www.wikidata.org/entity/Q32310,заслуженный тренер,,,Россия
+http://www.wikidata.org/entity/Q5219518,"Глейхенгауз, Даниил Маркович",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q5219518,"Глейхенгауз, Даниил Маркович",фигурное катание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q942112,"Гурейро, Джонатан Францискович",фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q942112,"Гурейро, Джонатан Францискович",фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Австралия
+http://www.wikidata.org/entity/Q131522469,Дарья Садкова,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q132643803,Дмитрий Евгеньев,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q56242352,Дэвид Нарижный,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q14756776,Евгения Армановна Медведева,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q198672,Евгения Максимовна Тарасова,фигурное катание,http://www.wikidata.org/entity/Q19030089,медаль ордена «За заслуги перед Отечеством» II степени,,,Россия
+http://www.wikidata.org/entity/Q198672,Евгения Максимовна Тарасова,фигурное катание,http://www.wikidata.org/entity/Q86003372,орден «Дуслык»,,,Россия
+http://www.wikidata.org/entity/Q198672,Евгения Максимовна Тарасова,фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q198672,Евгения Максимовна Тарасова,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q133868974,Егор Юрьевич Гончаров,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q452193,Екатерина Александровна Боброва,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q452193,Екатерина Александровна Боброва,фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q123992045,Екатерина Николаевна Чикмарёва,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q457761,Елена Руслановна Ильиных,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q274396,Елизавета Сергеевна Туктамышева,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q274396,Елизавета Сергеевна Туктамышева,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q6968326,"Забияко, Наталья Александровна",фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q6968326,"Забияко, Наталья Александровна",фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q6968326,"Забияко, Наталья Александровна",фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Эстония
+http://www.wikidata.org/entity/Q6968326,"Забияко, Наталья Александровна",фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Эстония
+http://www.wikidata.org/entity/Q61432839,Ирина Дмитриевна Хавронина,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q233527,Каролина Костнер,фигурное катание,http://www.wikidata.org/entity/Q3682699,Золотая цепь спортивных заслуг,,,Италия
+http://www.wikidata.org/entity/Q551727,"Климов, Фёдор Александрович",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q110647415,Княжук Илья Игоревич,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q44929,Кэйтлин Осмонд,фигурное катание,http://www.wikidata.org/entity/Q512464,орден Ньюфаундленда и Лабрадора,,,Канада
+http://www.wikidata.org/entity/Q59416,"Леонова, Алёна Игоревна",фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q59416,"Леонова, Алёна Игоревна",фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,СССР
+http://www.wikidata.org/entity/Q42276403,Максим Александрович Некрасов,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q57498678,Марк Кондратюк,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q57498678,Марк Кондратюк,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q123992233,Матвей Александрович Янченков,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q6849583,Михаил Сергеевич Коляда,фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q134514246,Пасечник Елизавета Алексеевна,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q56606034,Пётр Гуменник,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q105723132,"Семененко, Евгений Станиславович",фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q7927042,"Синицина, Виктория Александровна",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q723905,"Соловьёв, Дмитрий Владимирович",фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q723905,"Соловьёв, Дмитрий Владимирович",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q440649,"Столбова, Ксения Андреевна",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q271546,Татьяна Андреевна Волосожар,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q271546,Татьяна Андреевна Волосожар,фигурное катание,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Россия
+http://www.wikidata.org/entity/Q271546,Татьяна Андреевна Волосожар,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,,Украина
+http://www.wikidata.org/entity/Q271546,Татьяна Андреевна Волосожар,фигурное катание,http://www.wikidata.org/entity/Q18080423,орден «За заслуги перед Отечеством» IV степени,,,Украина
+http://www.wikidata.org/entity/Q981074,"Тен, Денис Юрьевич",фигурное катание,http://www.wikidata.org/entity/Q1862291,орден «Курмет»,,,Казахстан
+http://www.wikidata.org/entity/Q233492,Тесса Вертью,фигурное катание,http://www.wikidata.org/entity/Q209896,почётная степень,,,Канада
+http://www.wikidata.org/entity/Q4183590,Тиффани Загорски,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Франция
+http://www.wikidata.org/entity/Q4183590,Тиффани Загорски,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Великобритания
+http://www.wikidata.org/entity/Q4183590,Тиффани Загорски,фигурное катание,http://www.wikidata.org/entity/Q3843021,мастер спорта России международного класса,,,Россия
+http://www.wikidata.org/entity/Q110647122,Хабибуллина Наталья Алексеевна,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q2036873,"Энберт, Александр Юрьевич",фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,,Россия
+http://www.wikidata.org/entity/Q4262660,Юлия Вячеславовна Липницкая,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,,Россия
+http://www.wikidata.org/entity/Q67258234,Юлия Сергеевна Артемьева,фигурное катание,http://www.wikidata.org/entity/Q9317276,мастер спорта России,,,Россия
+http://www.wikidata.org/entity/Q231153,Джоанни Рошетт,фигурное катание,http://www.wikidata.org/entity/Q4377033,Премия Бобби Розенфельд,,2010,Канада
+http://www.wikidata.org/entity/Q231153,Джоанни Рошетт,фигурное катание,http://www.wikidata.org/entity/Q17019057,Women of Distinction Awards,,2010,Канада
+http://www.wikidata.org/entity/Q16264486,"Усманцева, Елизавета Алексеевна",фигурное катание,http://www.wikidata.org/entity/Q12120483,Мастер спорта Украины,,2012,Украина
+http://www.wikidata.org/entity/Q917534,"Кацалапов, Никита Геннадьевич",фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,2014,Россия
+http://www.wikidata.org/entity/Q917534,"Кацалапов, Никита Геннадьевич",фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2014,Россия
+http://www.wikidata.org/entity/Q1152111,Принцесса Како Акисино,фигурное катание,http://www.wikidata.org/entity/Q64735577,Большая лента ордена Драгоценной короны,,2014,Япония
+http://www.wikidata.org/entity/Q597023,Юдзуру Ханю,фигурное катание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,2014,Япония
+http://www.wikidata.org/entity/Q11463509,Фука Косиба,фигурное катание,http://www.wikidata.org/entity/Q20982918,Blue Ribbon Awards for Best Newcomer,,2015,Япония
+http://www.wikidata.org/entity/Q933246,Хавьер Фернандес,фигурное катание,http://www.wikidata.org/entity/Q29570455,Большой крест ордена Мадридского восстания,,2015,Испания
+http://www.wikidata.org/entity/Q124608443,Karen Sandra Ghebbari,фигурное катание,http://www.wikidata.org/entity/Q55664002,Орден Национального вознаграждения,,2016,Франция
+http://www.wikidata.org/entity/Q124608443,Karen Sandra Ghebbari,фигурное катание,http://www.wikidata.org/entity/Q55664002,Орден Национального вознаграждения,,2016,Марокко
+http://www.wikidata.org/entity/Q933246,Хавьер Фернандес,фигурное катание,http://www.wikidata.org/entity/Q30860334,золотая медаль Королевского ордена Спортивных заслуг,,2016,Испания
+http://www.wikidata.org/entity/Q933246,Хавьер Фернандес,фигурное катание,http://www.wikidata.org/entity/Q41834600,Золотая медаль Мадрида,,2017,Испания
+http://www.wikidata.org/entity/Q350722,Адам Риппон,фигурное катание,http://www.wikidata.org/entity/Q604370,Time 100,,2018,США
+http://www.wikidata.org/entity/Q4344606,Габриэла Пападакис,фигурное катание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2018,Франция
+http://www.wikidata.org/entity/Q5616031,Гийом Сизерон,фигурное катание,http://www.wikidata.org/entity/Q13422138,кавалер ордена «За заслуги» (Франция),,2018,Франция
+http://www.wikidata.org/entity/Q440940,Скотт Моир,фигурное катание,http://www.wikidata.org/entity/Q857933,Канадская Аллея славы,,2018,Канада
+http://www.wikidata.org/entity/Q233492,Тесса Вертью,фигурное катание,http://www.wikidata.org/entity/Q857933,Канадская Аллея славы,,2018,Канада
+http://www.wikidata.org/entity/Q597023,Юдзуру Ханю,фигурное катание,http://www.wikidata.org/entity/Q905670,премия Народного Почёта,,2018,Япония
+http://www.wikidata.org/entity/Q597023,Юдзуру Ханю,фигурное катание,http://www.wikidata.org/entity/Q11605748,медаль Почёта с пурпурной лентой,,2018,Япония
+http://www.wikidata.org/entity/Q7927042,"Синицина, Виктория Александровна",фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2020,Россия
+http://www.wikidata.org/entity/Q440940,Скотт Моир,фигурное катание,http://www.wikidata.org/entity/Q15278101,член ордена Канады,,2020,Канада
+http://www.wikidata.org/entity/Q233492,Тесса Вертью,фигурное катание,http://www.wikidata.org/entity/Q15278101,член ордена Канады,,2020,Канада
+http://www.wikidata.org/entity/Q37983439,Александра Трусова,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q37983439,Александра Трусова,фигурное катание,http://www.wikidata.org/entity/Q19030539,медаль ордена «За заслуги перед Отечеством» I степени,,2022,Россия
+http://www.wikidata.org/entity/Q4344606,Габриэла Пападакис,фигурное катание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2022,Франция
+http://www.wikidata.org/entity/Q5616031,Гийом Сизерон,фигурное катание,http://www.wikidata.org/entity/Q10855271,кавалер ордена Почётного легиона,,2022,Франция
+http://www.wikidata.org/entity/Q59800543,Камила Валиева,фигурное катание,http://www.wikidata.org/entity/Q791135,орден Дружбы,,2022,Россия
+http://www.wikidata.org/entity/Q59800543,Камила Валиева,фигурное катание,http://www.wikidata.org/entity/Q86003372,орден «Дуслык»,,2022,Россия
+http://www.wikidata.org/entity/Q59800543,Камила Валиева,фигурное катание,http://www.wikidata.org/entity/Q32164,заслуженный мастер спорта России,,2022,Россия
+http://www.wikidata.org/entity/Q917534,"Кацалапов, Никита Геннадьевич",фигурное катание,http://www.wikidata.org/entity/Q2268261,орден Почёта,,2022,Россия
+http://www.wikidata.org/entity/Q6968975,Нейтан Чен,фигурное катание,http://www.wikidata.org/entity/Q604370,Time 100,,2022,США
+http://www.wikidata.org/entity/Q597023,Юдзуру Ханю,фигурное катание,http://www.wikidata.org/entity/Q1000104,премия Кана Кикути,,2022,Япония
