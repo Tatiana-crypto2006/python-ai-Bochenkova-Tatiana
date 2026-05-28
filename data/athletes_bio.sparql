@@ -1,0 +1,30 @@
+# Биографические данные спортсменов (родились после 1985)
+# Виды спорта: плавание (wd:Q31920), биатлон (wd:Q166788), фигурное катание (wd:Q38108)
+
+SELECT DISTINCT
+  ?athlete
+  ?athleteLabel
+  ?sportLabel
+  ?birthDate
+  ?birthPlaceLabel
+  ?educationLabel
+  ?nationalTeamLabel
+  ?coachLabel
+WHERE {
+  ?athlete wdt:P31 wd:Q5 ;
+            wdt:P641 ?sport ;
+            wdt:P569 ?birthDate .
+
+  VALUES ?sport { wd:Q31920 wd:Q166788 wd:Q38108 }
+  FILTER(YEAR(?birthDate) >= 1985)
+
+  OPTIONAL { ?athlete wdt:P19 ?birthPlace }
+  OPTIONAL { ?athlete wdt:P69 ?education }
+  OPTIONAL { ?athlete wdt:P54 ?nationalTeam }
+  OPTIONAL { ?athlete wdt:P1038 ?coach }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "ru,en,mul" .
+  }
+}
+ORDER BY ?sportLabel ?athleteLabel
